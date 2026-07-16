@@ -65,8 +65,6 @@
 </pre>
 
 
-
-
 </td>
 <td width="60%" valign="top">
 
@@ -78,6 +76,18 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### ⚙️ Embedded & Hardware Skills
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+
+**Protocols & Interfaces:** I2C · SPI · UART · MAVLink · LoRa (SX127x)
+
+**Firmware & Systems:** Bare-metal C/C++ · Real-time sensor fusion · Actuator control · Serial telemetry pipelines
+
+### 🚀 Currently Building
+- 🚁 **Autonomous Quadcopter** — DroneKit/MAVLink mission control over ArduPilot on APM 2.8
+- 🤖 **Buddy** — YOLOv8 + Llama 3.2 companion robot on Raspberry Pi
+- 🧹 **Code Janitor** — VS Code extension, 1,600+ installs on the Marketplace
 
 </td>
 </tr>
